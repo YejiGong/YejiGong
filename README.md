@@ -10,6 +10,8 @@
   <a href="https://velog.io/@ydppwljg"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:yejigong00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejigong00@gmail.com"/></a>
   
+  [Portfolio & Github Repositories Introduction](https://eight-algebra-99b.notion.site/Portfolio-c34b891bab3c4fbfaebc493ccfd25092)
+  
   --- 
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YejiGong&hide=Jupyter Notebook"/>
