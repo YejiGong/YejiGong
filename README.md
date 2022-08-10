@@ -28,7 +28,7 @@
   
   <br>
   
-  :pencil: *Studying :  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">*
+  :pencil: *Studying :  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">. <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">*
 
   ---
   
