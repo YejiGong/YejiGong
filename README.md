@@ -14,13 +14,12 @@
   
   --- 
 
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YejiGong&hide=Jupyter Notebook"/>
 
   ### Tech Stack
   
   #### Language.   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-  #### Backend.   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  #### Backend.   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"> 
  
   #### Frontend.   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
   
@@ -28,7 +27,7 @@
   
   <br>
   
-  :pencil: *Studying :  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">. <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">*
+  :pencil: *Studying :  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">*
 
   ---
   
