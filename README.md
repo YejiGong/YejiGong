@@ -10,7 +10,11 @@
   <a href="https://velog.io/@ydppwljg"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:yejigong00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejigong00@gmail.com"/></a>
   
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ydppwljg)](https://velog.io/@ydppwljg) 
+
   [Portfolio & GitHub Repositories Introduction](https://eight-algebra-99b.notion.site/Portfolio-c34b891bab3c4fbfaebc493ccfd25092)
+  
+  
   
   --- 
 
@@ -33,7 +37,5 @@
 
   ---
   
-  
   <img src = "https://github-readme-stats.vercel.app/api?username=YejiGong"/>
 
-</div>
