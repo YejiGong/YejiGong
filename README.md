@@ -12,7 +12,6 @@
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ydppwljg)](https://velog.io/@ydppwljg) 
 
-  [Portfolio & GitHub Repositories Introduction](https://eight-algebra-99b.notion.site/Portfolio-c34b891bab3c4fbfaebc493ccfd25092)
   
   
   
